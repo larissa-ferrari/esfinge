@@ -1,0 +1,6 @@
+tensorflow
+numpy
+pandas
+Keras-Preprocessing
+matplotlib
+pydot
